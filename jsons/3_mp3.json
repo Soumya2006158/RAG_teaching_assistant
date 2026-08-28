@@ -1,0 +1,810 @@
+{
+  "chunks": [
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Dear students, Welcome to Gate Smashers."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 2.0,
+      "end": 6.0,
+      "text": " In this video, I am going to explain what is classical waterfall model"
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 6.0,
+      "end": 10.0,
+      "text": " and all the important points related to this, advantages, disadvantages,"
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 10.0,
+      "end": 14.0,
+      "text": " each and every fact, I will explain to you in this video with example."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 14.0,
+      "end": 17.0,
+      "text": " So guys, quickly like the video, subscribe to the channel,"
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 17.0,
+      "end": 20.0,
+      "text": " if you have not done it yet and if you have done it,"
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 20.0,
+      "end": 24.0,
+      "text": " then you can also subscribe with other devices because subscribers are very important."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 24.0,
+      "end": 26.0,
+      "text": " So let's start first."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 26.0,
+      "end": 32.0,
+      "text": " Here classical waterfall model came in 1970s, it is a very old model."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 32.0,
+      "end": 38.0,
+      "text": " Practically if we talk about software development, I don't think anyone has used it much."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 38.0,
+      "end": 43.0,
+      "text": " Maybe it was used for small projects because actually why is it called waterfall?"
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 43.0,
+      "end": 48.0,
+      "text": " Because in waterfall, see there are steps in a systematic way like this"
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 48.0,
+      "end": 51.0,
+      "text": " and this diagram is like a waterfall, you can see."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 51.0,
+      "end": 57.0,
+      "text": " Now see the steps in this, feasibility study, work is the same which we discussed in SDLC,"
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 57.0,
+      "end": 64.0,
+      "text": " all the phases in the software development life cycle are all the same phases."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 64.0,
+      "end": 70.0,
+      "text": " Whether you talk about prototype model, spiral, waterfall, whatever model you talk about,"
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 70.0,
+      "end": 74.0,
+      "text": " but the main point in this, I am telling you in action."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 74.0,
+      "end": 78.0,
+      "text": " So see feasibility study, requirement analysis and specification design is done,"
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 78.0,
+      "end": 83.0,
+      "text": " coding and unit testing is done, system testing and integration and finally we have our maintenance."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 83.0,
+      "end": 88.0,
+      "text": " So see if we talk about feasibility study, so what is the meaning of feasibility study?"
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 88.0,
+      "end": 91.0,
+      "text": " That whether your project is feasible or not."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 91.0,
+      "end": 96.0,
+      "text": " Means technically if we talk or if we talk financially, then whether it is feasible or not."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 96.0,
+      "end": 102.0,
+      "text": " Means it is not that you have taken such a big project and its budget is very less."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 102.0,
+      "end": 107.0,
+      "text": " Or you talk that technically that project should be so sound that a platform should be available for it,"
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 107.0,
+      "end": 112.0,
+      "text": " a team should be available for it, so first you will check whether it is feasible."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 112.0,
+      "end": 115.0,
+      "text": " Can you make it? Can you make it in that much money?"
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 115.0,
+      "end": 120.0,
+      "text": " So when all these things will be gathered, then you will go to requirement analysis and specification."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 120.0,
+      "end": 126.0,
+      "text": " Ok, you have checked it, after that what you have finalized that ok how much team will I take,"
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 126.0,
+      "end": 131.0,
+      "text": " how much time will it take, you will do estimation and you will make SRS document here."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 131.0,
+      "end": 136.0,
+      "text": " So that you can write all the specifications in written to your customer."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 136.0,
+      "end": 141.0,
+      "text": " Then we have designing phase, coding and unit testing, coding is the same implementation."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 141.0,
+      "end": 146.0,
+      "text": " After that in unit testing what you are doing is you are testing each and every small unit."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 146.0,
+      "end": 152.0,
+      "text": " System testing and integration, you have integrated small units and after that you have done system testing,"
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 152.0,
+      "end": 158.0,
+      "text": " there is alpha testing, beta testing, acceptance testing, this will come to you later on each and every point."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 158.0,
+      "end": 162.0,
+      "text": " But what happens is that first in unit testing you have tested each unit,"
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 163.0,
+      "end": 168.0,
+      "text": " after that you have combined those units, combined those modules, when that system became big,"
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 168.0,
+      "end": 173.0,
+      "text": " so after integrating that, alpha testing means the team which is developing is doing that,"
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 173.0,
+      "end": 178.0,
+      "text": " beta testing means your customers, friendly customers are actually checking,"
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 178.0,
+      "end": 185.0,
+      "text": " acceptance means after checking the customer properly, he will say that will I accept this or not accept this software."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 185.0,
+      "end": 190.0,
+      "text": " And finally comes maintenance, this is a very very important phase in this."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 190.0,
+      "end": 196.0,
+      "text": " In this maintenance phase is very important because all the efforts, maximum effort,"
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 196.0,
+      "end": 199.0,
+      "text": " 60% of your effort is in maintenance phase only."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 199.0,
+      "end": 201.0,
+      "text": " Why? You will know that now."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 201.0,
+      "end": 203.0,
+      "text": " What is the meaning of maintenance phase?"
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 203.0,
+      "end": 206.0,
+      "text": " If any problem comes, any bug comes, you have to fix it,"
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 206.0,
+      "end": 209.0,
+      "text": " each and every problem that is coming technically, non-technically,"
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 209.0,
+      "end": 212.0,
+      "text": " what you have to do is fix all of them."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 212.0,
+      "end": 217.0,
+      "text": " So here also see, if we talk about its advantages, what are the advantages of this model?"
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 217.0,
+      "end": 221.0,
+      "text": " It is a basic model, very basic model, means all your later on models will come,"
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 221.0,
+      "end": 224.0,
+      "text": " they are working like a base for it somewhere."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 224.0,
+      "end": 228.0,
+      "text": " Means this was the first model, it will tell you that this is the story,"
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 228.0,
+      "end": 232.0,
+      "text": " later on in other models they removed all the problems of this,"
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 232.0,
+      "end": 234.0,
+      "text": " so it works like a base in a way."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 234.0,
+      "end": 241.0,
+      "text": " It is simple, easy, there is no big story in this, your steps are mentioned in a systematic way."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 241.0,
+      "end": 243.0,
+      "text": " You can say it is easy for small projects,"
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 243.0,
+      "end": 248.0,
+      "text": " where specially you say that the customer, whatever requirements the customer has,"
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 248.0,
+      "end": 252.0,
+      "text": " he knows it clearly, it is not that he, first the customer said this,"
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 252.0,
+      "end": 255.0,
+      "text": " later he said no, no, I have to do this in this, no."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 255.0,
+      "end": 258.0,
+      "text": " Once he told, that is fixed."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 258.0,
+      "end": 261.0,
+      "text": " So that's why this model is actually a little rigid,"
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 261.0,
+      "end": 263.0,
+      "text": " it is not flexibility, it is rigid."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 263.0,
+      "end": 267.0,
+      "text": " Why is it rigid? This advantage will be fine for small projects,"
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 267.0,
+      "end": 269.0,
+      "text": " but what is the big disadvantage here?"
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 269.0,
+      "end": 271.0,
+      "text": " What is your project?"
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 271.0,
+      "end": 276.0,
+      "text": " Means once you have told, what you have told your service provider that I want this,"
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 276.0,
+      "end": 280.0,
+      "text": " when it has started work, after that you have no role,"
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 280.0,
+      "end": 283.0,
+      "text": " your role will be when you get the software,"
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 283.0,
+      "end": 288.0,
+      "text": " then whatever problems will come, whatever bugs will come, whatever problems will come,"
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 288.0,
+      "end": 291.0,
+      "text": " they will go and be removed in this phase of yours."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 291.0,
+      "end": 295.0,
+      "text": " Means what is the major problem here? There is no feedback."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 295.0,
+      "end": 297.0,
+      "text": " What is not there? There is no feedback."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 297.0,
+      "end": 302.0,
+      "text": " Means whatever work you did here, after that you handovered the next team,"
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 302.0,
+      "end": 304.0,
+      "text": " then handovered the next."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 304.0,
+      "end": 307.0,
+      "text": " Now if someone feels that there is a problem in this,"
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 307.0,
+      "end": 310.0,
+      "text": " I should tell the team behind that fix this a little."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 310.0,
+      "end": 315.0,
+      "text": " No, this is not, it is a very rigid model, it says that I don't have to make any changes."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 315.0,
+      "end": 318.0,
+      "text": " Once it leaves the team, it leaves from one phase,"
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 318.0,
+      "end": 323.0,
+      "text": " then it will go to the next phase, no value will go to the back phase."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 323.0,
+      "end": 325.0,
+      "text": " Means if we talk about experiments,"
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 325.0,
+      "end": 328.0,
+      "text": " means it will be the same that you cannot make any changes,"
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 328.0,
+      "end": 331.0,
+      "text": " you cannot bring any new experiment here,"
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 331.0,
+      "end": 334.0,
+      "text": " whatever the person behind has done, you will have to do that only now."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 334.0,
+      "end": 339.0,
+      "text": " You have to submit next, next, next, you have to work like this."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 339.0,
+      "end": 342.0,
+      "text": " There is no parallelism. What is the meaning of parallelism?"
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 342.0,
+      "end": 345.0,
+      "text": " That multiple teams can work at one time."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 345.0,
+      "end": 349.0,
+      "text": " No, it is not like this here, first this team will work, the rest of the team is idle."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 349.0,
+      "end": 352.0,
+      "text": " When work will come to this team, then the rest are idle."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 352.0,
+      "end": 358.0,
+      "text": " Means there is no parallelism, at one time you are not doing multiple work."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 358.0,
+      "end": 362.0,
+      "text": " It is high risk, obviously this will be high risk because there is rigidity,"
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 362.0,
+      "end": 365.0,
+      "text": " there is no flexibility here, so somewhere risk will remain."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 365.0,
+      "end": 370.0,
+      "text": " Why? Because all the problems that are coming, you will see them in the last phase."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 370.0,
+      "end": 373.0,
+      "text": " I will tell you with a simple example, real life example."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 373.0,
+      "end": 376.0,
+      "text": " You have to make a house, you have to make a house of your dreams,"
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 376.0,
+      "end": 379.0,
+      "text": " what did you do? You took place, made a map from the architect,"
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 379.0,
+      "end": 384.0,
+      "text": " each and everything is done. You gave money to the builder, the builder also built a house."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 384.0,
+      "end": 391.0,
+      "text": " Means from taking place to your home environment, you did not see what is going on, how is it going on."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 391.0,
+      "end": 396.0,
+      "text": " When you have to go inside the house, then you will see that this is wrong."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 396.0,
+      "end": 399.0,
+      "text": " This kitchen is very small, this should have been the kitchen,"
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 399.0,
+      "end": 402.0,
+      "text": " bedroom should not have been here, it should have been here."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 402.0,
+      "end": 408.0,
+      "text": " Now if you make changes, means you are going straight to the maintenance phase and changing."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 408.0,
+      "end": 413.0,
+      "text": " Means you have entered the house and started breaking it along with it."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 413.0,
+      "end": 415.0,
+      "text": " Sometimes you will break here, sometimes you will do this."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 415.0,
+      "end": 418.0,
+      "text": " So obviously how big is the problem, what is better that in between,"
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 418.0,
+      "end": 423.0,
+      "text": " means in between you have a feedback system that if any mistake remains,"
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 423.0,
+      "end": 429.0,
+      "text": " any problem remains, we can remove it in that phase, we can fix bugs etc. in that phase."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 429.0,
+      "end": 437.0,
+      "text": " This thing is missing here, that's why maintenance phase, 60% effort is in maintenance phase."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 437.0,
+      "end": 441.0,
+      "text": " Why? Because the other phases did their work and sat comfortably."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 441.0,
+      "end": 445.0,
+      "text": " They know that now whatever problem will come in the maintenance phase, we will solve it then."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 445.0,
+      "end": 449.0,
+      "text": " So in maintenance, bugs will come to you again and again, problems will come."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 449.0,
+      "end": 455.0,
+      "text": " Because then actually the customer got that software and he gave it to his users."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 455.0,
+      "end": 461.0,
+      "text": " Then actually all your problems will come here and then what will you do to them,"
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 461.0,
+      "end": 466.0,
+      "text": " you will try to remove it slowly, so somewhere your time will also be wasted here,"
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 466.0,
+      "end": 474.0,
+      "text": " money will obviously be extra. So these major problems come here in classical waterfall model."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 474.0,
+      "end": 477.0,
+      "text": " There is nothing outside this, you can ask anywhere."
+    },
+    {
+      "number": "3",
+      "title": "videoplayback (3)",
+      "start": 477.0,
+      "end": 481.0,
+      "text": " If you have told these points, this is more than sufficient. Thank you."
+    }
+  ],
+  "text": " Dear students, Welcome to Gate Smashers. In this video, I am going to explain what is classical waterfall model and all the important points related to this, advantages, disadvantages, each and every fact, I will explain to you in this video with example. So guys, quickly like the video, subscribe to the channel, if you have not done it yet and if you have done it, then you can also subscribe with other devices because subscribers are very important. So let's start first. Here classical waterfall model came in 1970s, it is a very old model. Practically if we talk about software development, I don't think anyone has used it much. Maybe it was used for small projects because actually why is it called waterfall? Because in waterfall, see there are steps in a systematic way like this and this diagram is like a waterfall, you can see. Now see the steps in this, feasibility study, work is the same which we discussed in SDLC, all the phases in the software development life cycle are all the same phases. Whether you talk about prototype model, spiral, waterfall, whatever model you talk about, but the main point in this, I am telling you in action. So see feasibility study, requirement analysis and specification design is done, coding and unit testing is done, system testing and integration and finally we have our maintenance. So see if we talk about feasibility study, so what is the meaning of feasibility study? That whether your project is feasible or not. Means technically if we talk or if we talk financially, then whether it is feasible or not. Means it is not that you have taken such a big project and its budget is very less. Or you talk that technically that project should be so sound that a platform should be available for it, a team should be available for it, so first you will check whether it is feasible. Can you make it? Can you make it in that much money? So when all these things will be gathered, then you will go to requirement analysis and specification. Ok, you have checked it, after that what you have finalized that ok how much team will I take, how much time will it take, you will do estimation and you will make SRS document here. So that you can write all the specifications in written to your customer. Then we have designing phase, coding and unit testing, coding is the same implementation. After that in unit testing what you are doing is you are testing each and every small unit. System testing and integration, you have integrated small units and after that you have done system testing, there is alpha testing, beta testing, acceptance testing, this will come to you later on each and every point. But what happens is that first in unit testing you have tested each unit, after that you have combined those units, combined those modules, when that system became big, so after integrating that, alpha testing means the team which is developing is doing that, beta testing means your customers, friendly customers are actually checking, acceptance means after checking the customer properly, he will say that will I accept this or not accept this software. And finally comes maintenance, this is a very very important phase in this. In this maintenance phase is very important because all the efforts, maximum effort, 60% of your effort is in maintenance phase only. Why? You will know that now. What is the meaning of maintenance phase? If any problem comes, any bug comes, you have to fix it, each and every problem that is coming technically, non-technically, what you have to do is fix all of them. So here also see, if we talk about its advantages, what are the advantages of this model? It is a basic model, very basic model, means all your later on models will come, they are working like a base for it somewhere. Means this was the first model, it will tell you that this is the story, later on in other models they removed all the problems of this, so it works like a base in a way. It is simple, easy, there is no big story in this, your steps are mentioned in a systematic way. You can say it is easy for small projects, where specially you say that the customer, whatever requirements the customer has, he knows it clearly, it is not that he, first the customer said this, later he said no, no, I have to do this in this, no. Once he told, that is fixed. So that's why this model is actually a little rigid, it is not flexibility, it is rigid. Why is it rigid? This advantage will be fine for small projects, but what is the big disadvantage here? What is your project? Means once you have told, what you have told your service provider that I want this, when it has started work, after that you have no role, your role will be when you get the software, then whatever problems will come, whatever bugs will come, whatever problems will come, they will go and be removed in this phase of yours. Means what is the major problem here? There is no feedback. What is not there? There is no feedback. Means whatever work you did here, after that you handovered the next team, then handovered the next. Now if someone feels that there is a problem in this, I should tell the team behind that fix this a little. No, this is not, it is a very rigid model, it says that I don't have to make any changes. Once it leaves the team, it leaves from one phase, then it will go to the next phase, no value will go to the back phase. Means if we talk about experiments, means it will be the same that you cannot make any changes, you cannot bring any new experiment here, whatever the person behind has done, you will have to do that only now. You have to submit next, next, next, you have to work like this. There is no parallelism. What is the meaning of parallelism? That multiple teams can work at one time. No, it is not like this here, first this team will work, the rest of the team is idle. When work will come to this team, then the rest are idle. Means there is no parallelism, at one time you are not doing multiple work. It is high risk, obviously this will be high risk because there is rigidity, there is no flexibility here, so somewhere risk will remain. Why? Because all the problems that are coming, you will see them in the last phase. I will tell you with a simple example, real life example. You have to make a house, you have to make a house of your dreams, what did you do? You took place, made a map from the architect, each and everything is done. You gave money to the builder, the builder also built a house. Means from taking place to your home environment, you did not see what is going on, how is it going on. When you have to go inside the house, then you will see that this is wrong. This kitchen is very small, this should have been the kitchen, bedroom should not have been here, it should have been here. Now if you make changes, means you are going straight to the maintenance phase and changing. Means you have entered the house and started breaking it along with it. Sometimes you will break here, sometimes you will do this. So obviously how big is the problem, what is better that in between, means in between you have a feedback system that if any mistake remains, any problem remains, we can remove it in that phase, we can fix bugs etc. in that phase. This thing is missing here, that's why maintenance phase, 60% effort is in maintenance phase. Why? Because the other phases did their work and sat comfortably. They know that now whatever problem will come in the maintenance phase, we will solve it then. So in maintenance, bugs will come to you again and again, problems will come. Because then actually the customer got that software and he gave it to his users. Then actually all your problems will come here and then what will you do to them, you will try to remove it slowly, so somewhere your time will also be wasted here, money will obviously be extra. So these major problems come here in classical waterfall model. There is nothing outside this, you can ask anywhere. If you have told these points, this is more than sufficient. Thank you."
+}

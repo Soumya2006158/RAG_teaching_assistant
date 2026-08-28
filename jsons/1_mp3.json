@@ -1,0 +1,1307 @@
+{
+  "chunks": [
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 0.0,
+      "end": 9.6,
+      "text": " Hello friends, welcome to Gate Smashers."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 9.64,
+      "end": 14.44,
+      "text": " In this video, I am going to explain the definition of software engineering and its evolution."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 14.48,
+      "end": 17.68,
+      "text": " You will find the definition of software engineering in many places."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 17.72,
+      "end": 19.96,
+      "text": " You will find many different definitions."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 20.0,
+      "end": 22.16,
+      "text": " But one of the best definition is"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 22.2,
+      "end": 28.32,
+      "text": " It is a systematic, disciplined, cost effective technique for software development."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 28.32,
+      "end": 33.72,
+      "text": " Means for software development, we have a systematic, means step by step approach."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 33.76,
+      "end": 39.52,
+      "text": " And disciplined means here that we are following the rules and working on a regular basis."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 39.56,
+      "end": 43.52,
+      "text": " It is not that we worked today, we stopped work for 10 days and then started work."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 43.56,
+      "end": 45.32,
+      "text": " No, there is a proper deadline."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 45.36,
+      "end": 47.04,
+      "text": " We have to work in between the deadline."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 47.08,
+      "end": 48.84,
+      "text": " We have to work in a disciplined way."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 48.879999999999995,
+      "end": 54.84,
+      "text": " Cost effective, means the technique you are using, cost is an important factor in it."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 54.88,
+      "end": 55.96,
+      "text": " It is an important parameter."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 55.96,
+      "end": 58.36,
+      "text": " It is not that you are working over the budget, no."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 58.4,
+      "end": 60.8,
+      "text": " You are working under the budget."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 60.84,
+      "end": 64.0,
+      "text": " As well as you can add another constraint in it, time."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 64.04,
+      "end": 69.6,
+      "text": " Because time is also a very important parameter that within the time only your work should be complete."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 69.64,
+      "end": 74.48,
+      "text": " So it is a combination of all these techniques for software development."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 74.52,
+      "end": 79.76,
+      "text": " And see, the second point here is that software development is not related to how to code."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 79.8,
+      "end": 81.44,
+      "text": " Means how to code, no."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 81.48,
+      "end": 83.0,
+      "text": " It is a whole approach."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 83.0,
+      "end": 88.92,
+      "text": " Means I will tell you in a simple language that what is actually being talked about in software engineering."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 88.96,
+      "end": 90.76,
+      "text": " They are not talking about coding."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 90.8,
+      "end": 94.0,
+      "text": " Here they are just talking about the whole approach."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 94.04,
+      "end": 99.4,
+      "text": " The approach that you are following, step 1 which is your idea."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 99.44,
+      "end": 103.0,
+      "text": " Step 2, requirement, feasibility study, planning."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 103.03999999999999,
+      "end": 107.52,
+      "text": " After planning, you have done implementation, design, implementation."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 107.56,
+      "end": 111.52,
+      "text": " Then after that you have done testing, maintenance, product delivery."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 111.52,
+      "end": 113.11999999999999,
+      "text": " All these steps are coming."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 113.16,
+      "end": 117.67999999999999,
+      "text": " By combining all these steps you are making an approach."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 117.72,
+      "end": 121.0,
+      "text": " That approach is also known as engineering approach."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 121.03999999999999,
+      "end": 128.24,
+      "text": " So that's why the next definition is engineering approach to develop a software is known as software engineering."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 128.28,
+      "end": 134.2,
+      "text": " So here engineering approach does not mean that the work that the engineer is doing is known as engineering approach."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 134.24,
+      "end": 136.32,
+      "text": " No, what does engineering approach mean?"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 136.44,
+      "end": 139.64,
+      "text": " You are doing this work step by step, systematically."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 139.68,
+      "end": 144.79999999999998,
+      "text": " From the very first step to the last step, you are achieving your goal one by one."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 144.84,
+      "end": 147.48,
+      "text": " That is known as engineering approach."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 147.51999999999998,
+      "end": 151.68,
+      "text": " So see, if I explain this to you with a real life example,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 151.72,
+      "end": 153.84,
+      "text": " then it is a very basic example."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 153.88,
+      "end": 156.07999999999998,
+      "text": " Branded vs. Non-branded."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 156.12,
+      "end": 161.76,
+      "text": " See if we talk about branded, companies do their work in a very proper way."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 161.88,
+      "end": 166.64,
+      "text": " Like the place where I belong, there are a lot of modified jeeps."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 166.67999999999998,
+      "end": 169.79999999999998,
+      "text": " Now what do the modified jeep mechanics do?"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 169.84,
+      "end": 173.76,
+      "text": " By removing the engine of old jeeps, putting wide tires in them,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 173.79999999999998,
+      "end": 176.04,
+      "text": " making a good body and what do they do?"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 176.07999999999998,
+      "end": 177.2,
+      "text": " They bring it to the market."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 177.23999999999998,
+      "end": 180.35999999999999,
+      "text": " Now they brought it to the market, neither did any testing of it."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 180.39999999999998,
+      "end": 183.79999999999998,
+      "text": " Now let's suppose I am fine and on the other hand we have branded."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 183.84,
+      "end": 190.16,
+      "text": " Like Mahindra's Thar, Jeep company, Toyota SUVs, you will get a lot of such cars."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 190.16,
+      "end": 194.6,
+      "text": " And first of all, I am not talking about skill or degree here."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 194.64,
+      "end": 196.8,
+      "text": " That on one side is a mechanic and on the other is an engineer."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 196.84,
+      "end": 198.96,
+      "text": " I am just talking about the approach."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 199.0,
+      "end": 200.32,
+      "text": " What is the approach of these people?"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 200.35999999999999,
+      "end": 205.4,
+      "text": " The approach of non-branded things is that it is a build and deliver method."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 205.44,
+      "end": 207.56,
+      "text": " Means they made the thing and delivered it."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 207.6,
+      "end": 211.88,
+      "text": " Now after that, whether it runs 2 km or 200 km, it can be."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 211.92,
+      "end": 216.12,
+      "text": " I am saying from my personal experience that okay, they drove that jeep locally a little."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 216.16,
+      "end": 218.48,
+      "text": " But they took it on a long drive, it is over."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 218.48,
+      "end": 220.88,
+      "text": " And on the other hand, if we talk about branded,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 220.92,
+      "end": 224.64,
+      "text": " then in branded they have followed all the steps properly."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 224.67999999999998,
+      "end": 229.2,
+      "text": " Even after product delivery, see if your car is 5 years old,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 229.23999999999998,
+      "end": 234.72,
+      "text": " still you have the opportunity that you go to the showroom"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 234.76,
+      "end": 238.0,
+      "text": " and you are still providing its maintenance services."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 238.04,
+      "end": 242.64,
+      "text": " Okay, we will take its charges, but proper maintenance services are still being provided."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 242.67999999999998,
+      "end": 245.04,
+      "text": " So that is actually called the approach."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 245.04,
+      "end": 249.76,
+      "text": " From idea to maintenance, from maintenance to regular updates,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 249.79999999999998,
+      "end": 253.72,
+      "text": " we are actually calling all these steps as engineering approach."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 253.76,
+      "end": 257.24,
+      "text": " So that is only about the software engineering."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 257.28,
+      "end": 259.71999999999997,
+      "text": " So if anyone asks you about software engineering,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 259.76,
+      "end": 262.36,
+      "text": " that whether it has to be developed or coded,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 262.4,
+      "end": 266.28,
+      "text": " that is a phase, a phase that okay I have to do this work."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 266.32,
+      "end": 270.64,
+      "text": " But software engineering is all about the step 1 to last step,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 270.64,
+      "end": 275.84,
+      "text": " how are you following, how are you growing, that is all about the software engineering."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 275.88,
+      "end": 279.56,
+      "text": " So see, if we talk about its evolution here,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 279.59999999999997,
+      "end": 284.56,
+      "text": " then it is not that software engineering is a term of today or a term of 10 years ago, 20 years ago."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 284.59999999999997,
+      "end": 290.32,
+      "text": " The term software engineering comes under the time of 1945 to 1965,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 290.36,
+      "end": 294.36,
+      "text": " its origin is that, the origin will be when software development will start."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 294.4,
+      "end": 298.84,
+      "text": " So see, a lot of development started during the time of World War 2,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 298.84,
+      "end": 303.28,
+      "text": " even NASA, a lot of organizations, but the organizations at a large level,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 303.32,
+      "end": 307.76,
+      "text": " IBM company, they started working on it at their level."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 307.79999999999995,
+      "end": 310.4,
+      "text": " But no one was talking about engineering,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 310.44,
+      "end": 312.79999999999995,
+      "text": " work was going on simple software development,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 312.84,
+      "end": 316.59999999999997,
+      "text": " and all are following the build and deliver kind of method,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 316.64,
+      "end": 321.0,
+      "text": " which is also called build and fix method, that okay, made the thing and gave it in the market."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 321.03999999999996,
+      "end": 323.28,
+      "text": " Now after that, it may be that problems will come,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 323.32,
+      "end": 326.4,
+      "text": " and problems will come because you did not follow all the steps,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 326.4,
+      "end": 328.71999999999997,
+      "text": " you just gave the thing to run,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 328.76,
+      "end": 331.44,
+      "text": " now the thing to run will obviously create a problem,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 331.47999999999996,
+      "end": 333.44,
+      "text": " it may be that your work will be done in the starting,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 333.47999999999996,
+      "end": 336.64,
+      "text": " but it will not be effective for the long term."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 336.67999999999995,
+      "end": 339.56,
+      "text": " So that is the origin of the software engineering."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 339.59999999999997,
+      "end": 346.32,
+      "text": " And in the starting, the most important or you can say the most famous NATO conferences,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 346.35999999999996,
+      "end": 350.28,
+      "text": " where actually the name of software engineering was taken for the first time,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 350.28,
+      "end": 353.28,
+      "text": " after that if we talk about 65 to 85,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 353.32,
+      "end": 357.71999999999997,
+      "text": " this time was called the software crisis."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 357.76,
+      "end": 361.03999999999996,
+      "text": " Why is it called a crisis? I am telling you the same point,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 361.08,
+      "end": 365.52,
+      "text": " that branded or non-branded, you can say that I am following the whole approach,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 365.55999999999995,
+      "end": 367.64,
+      "text": " but at that time there was no approach,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 367.67999999999995,
+      "end": 370.35999999999996,
+      "text": " they are simply following the build and deliver kind of method,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 370.4,
+      "end": 374.15999999999997,
+      "text": " that okay, I got some work, I tried to wrap it up quickly,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 374.2,
+      "end": 376.88,
+      "text": " and delivered it in the market, gave it to my client."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 376.91999999999996,
+      "end": 378.64,
+      "text": " Now what was the problem?"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 378.64,
+      "end": 383.64,
+      "text": " The problem was that at that time, the most time of crisis was that"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 383.68,
+      "end": 386.52,
+      "text": " the software that was made at that time,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 386.56,
+      "end": 391.91999999999996,
+      "text": " only 2% of those software were actually used."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 391.96,
+      "end": 395.08,
+      "text": " Means if 100 software were made at that time,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 395.12,
+      "end": 397.88,
+      "text": " then only 2 of them were properly used,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 397.91999999999996,
+      "end": 403.32,
+      "text": " and approximately 47 to 50% were not delivered."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 403.36,
+      "end": 407.56,
+      "text": " Means it was not used, and you can say that rest of them are what?"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 407.56,
+      "end": 409.12,
+      "text": " They are simply scrapped."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 409.16,
+      "end": 411.52,
+      "text": " Scrapped means obviously it is over,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 411.56,
+      "end": 416.24,
+      "text": " means either its budget, the cost will be overrun,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 416.28000000000003,
+      "end": 419.12,
+      "text": " means you had a budget of let's suppose 1 billion,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 419.16,
+      "end": 421.44,
+      "text": " and you have already spent 1 billion,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 421.48,
+      "end": 423.84000000000003,
+      "text": " but you have not made all the software yet."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 423.88,
+      "end": 427.04,
+      "text": " Or time constraint, the time within the time you had to make,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 427.08,
+      "end": 430.96,
+      "text": " you consumed all that time, it became overtime."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 431.0,
+      "end": 433.04,
+      "text": " So these were a lot of constraints,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 433.08,
+      "end": 435.36,
+      "text": " there was complexity, there were many factors,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 435.36,
+      "end": 440.84000000000003,
+      "text": " because of which only 2% of the software were actually used."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 440.88,
+      "end": 444.84000000000003,
+      "text": " And one of the best example of this is OS 360."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 444.88,
+      "end": 449.32,
+      "text": " This was IBM's product, Operating System 360 they tried to develop,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 449.36,
+      "end": 452.32,
+      "text": " and the person who was heading this whole team,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 452.36,
+      "end": 456.88,
+      "text": " in his own book he has written that it is a multi-millionaire failure project."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 456.92,
+      "end": 460.12,
+      "text": " Why? Because they did not prepare any design for it,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 460.16,
+      "end": 461.84000000000003,
+      "text": " did not prepare any coherent design,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 461.88,
+      "end": 463.92,
+      "text": " directly they started working on that,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 463.92,
+      "end": 466.40000000000003,
+      "text": " prepared the coding part, implemented it and brought it to the market."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 466.44,
+      "end": 468.40000000000003,
+      "text": " And that was totally a failure."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 468.44,
+      "end": 474.40000000000003,
+      "text": " So this failure is actually due to not using the approach properly."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 474.44,
+      "end": 477.40000000000003,
+      "text": " And see, I am talking about approach again and again,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 477.44,
+      "end": 480.40000000000003,
+      "text": " so it does not mean that if you follow the approach,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 480.44,
+      "end": 483.92,
+      "text": " then definitely there is a 100% guarantee that you will be successful."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 483.96000000000004,
+      "end": 487.92,
+      "text": " No, but the probability of success will be more, that is the main point."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 487.96000000000004,
+      "end": 489.92,
+      "text": " But if you are not following the approach,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 489.96000000000004,
+      "end": 492.92,
+      "text": " the probability of failure is actually more."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 492.92,
+      "end": 497.92,
+      "text": " So see, it is not that after that the crisis stopped or decreased, no."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 497.96000000000004,
+      "end": 501.92,
+      "text": " It continued to run a lot after that, like it is very popular in this,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 501.96000000000004,
+      "end": 503.92,
+      "text": " a Taurus project is also very popular,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 503.96000000000004,
+      "end": 505.92,
+      "text": " 10-12 years work was done on it,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 505.96000000000004,
+      "end": 509.92,
+      "text": " even how much UK pound was spent on it,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 509.96000000000004,
+      "end": 512.9200000000001,
+      "text": " but still what was made at the end, it was put in scrap."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 512.96,
+      "end": 514.9200000000001,
+      "text": " Many products of the US also,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 514.96,
+      "end": 517.9200000000001,
+      "text": " they tried to make an autonomous system,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 517.96,
+      "end": 519.9200000000001,
+      "text": " worked on it for 10-12 years,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 519.92,
+      "end": 522.92,
+      "text": " but its budget overrun, so what happened because of that,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 522.9599999999999,
+      "end": 524.92,
+      "text": " that too was put in scrap."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 524.9599999999999,
+      "end": 526.92,
+      "text": " So it is not that it happened only at this time,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 526.9599999999999,
+      "end": 530.92,
+      "text": " but at this time you can say that only 2 out of 100 were used,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 530.9599999999999,
+      "end": 532.92,
+      "text": " rest you can say that it failed."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 532.9599999999999,
+      "end": 536.92,
+      "text": " So obviously that is actually known as the software crisis phase."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 536.9599999999999,
+      "end": 538.92,
+      "text": " After that, the time of the internet came,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 538.9599999999999,
+      "end": 541.92,
+      "text": " after 1990, the time of the internet came."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 541.9599999999999,
+      "end": 544.92,
+      "text": " And at this time, all the softwares,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 544.9599999999999,
+      "end": 547.92,
+      "text": " like obviously one of the, if we talk till now,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 547.92,
+      "end": 551.92,
+      "text": " the most famous is your Windows, Microsoft Windows,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 551.9599999999999,
+      "end": 554.92,
+      "text": " that is our system software, which we also call operating system,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 554.9599999999999,
+      "end": 556.92,
+      "text": " this also came at that time."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 556.9599999999999,
+      "end": 559.92,
+      "text": " And during the internet, many web browsers,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 559.9599999999999,
+      "end": 562.92,
+      "text": " they became very famous, they developed a lot."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 562.9599999999999,
+      "end": 564.92,
+      "text": " Then came the time of mobile,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 564.9599999999999,
+      "end": 566.92,
+      "text": " they started on lightweight in mobile."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 566.9599999999999,
+      "end": 570.92,
+      "text": " Lightweight means that one is running on PC software,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 570.9599999999999,
+      "end": 573.92,
+      "text": " now we need lightweight, we need a lightweight platform"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 573.9599999999999,
+      "end": 575.92,
+      "text": " on which we can make lightweight software,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 575.92,
+      "end": 580.92,
+      "text": " so that the software can be properly run on mobile."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 580.9599999999999,
+      "end": 584.92,
+      "text": " Then after that, the time, after 2010, you can say,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 584.9599999999999,
+      "end": 587.92,
+      "text": " the time is of AI, machine learning, deep learning,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 587.9599999999999,
+      "end": 591.92,
+      "text": " where we are using the concept of self-learning in software,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 591.9599999999999,
+      "end": 595.92,
+      "text": " where it is trying to learn itself like a human being."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 595.9599999999999,
+      "end": 599.92,
+      "text": " So see, this evolution is going on in this way."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 599.9599999999999,
+      "end": 602.92,
+      "text": " Now what is the best thing that has happened in this evolution?"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 602.92,
+      "end": 605.92,
+      "text": " That is most of the software are now free."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 605.9599999999999,
+      "end": 607.92,
+      "text": " Means, earlier they were propriety,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 607.9599999999999,
+      "end": 609.92,
+      "text": " the company made it, they kept it with them,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 609.9599999999999,
+      "end": 612.92,
+      "text": " but now most of the software are free,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 612.9599999999999,
+      "end": 616.92,
+      "text": " on which people can work, they can work on that particular thing,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 616.9599999999999,
+      "end": 618.92,
+      "text": " they can learn how to work."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 618.9599999999999,
+      "end": 622.92,
+      "text": " So this is actually the evolution of software engineering."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 622.9599999999999,
+      "end": 626.92,
+      "text": " So on this, in your exams, college, university exams,"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 626.9599999999999,
+      "end": 629.92,
+      "text": " even in placement, some points can be asked."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 629.9599999999999,
+      "end": 630.92,
+      "text": " Thank you."
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 632.92,
+      "end": 634.92,
+      "text": " Copyright\u00a9 OSHO International Foundation"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 634.9599999999999,
+      "end": 636.92,
+      "text": " www.OSHO.com"
+    },
+    {
+      "number": "1",
+      "title": "videoplayback (1)",
+      "start": 636.9599999999999,
+      "end": 638.92,
+      "text": " copyright OSHO is a registered Trademark of OSHO International Foundation"
+    }
+  ],
+  "text": " Hello friends, welcome to Gate Smashers. In this video, I am going to explain the definition of software engineering and its evolution. You will find the definition of software engineering in many places. You will find many different definitions. But one of the best definition is It is a systematic, disciplined, cost effective technique for software development. Means for software development, we have a systematic, means step by step approach. And disciplined means here that we are following the rules and working on a regular basis. It is not that we worked today, we stopped work for 10 days and then started work. No, there is a proper deadline. We have to work in between the deadline. We have to work in a disciplined way. Cost effective, means the technique you are using, cost is an important factor in it. It is an important parameter. It is not that you are working over the budget, no. You are working under the budget. As well as you can add another constraint in it, time. Because time is also a very important parameter that within the time only your work should be complete. So it is a combination of all these techniques for software development. And see, the second point here is that software development is not related to how to code. Means how to code, no. It is a whole approach. Means I will tell you in a simple language that what is actually being talked about in software engineering. They are not talking about coding. Here they are just talking about the whole approach. The approach that you are following, step 1 which is your idea. Step 2, requirement, feasibility study, planning. After planning, you have done implementation, design, implementation. Then after that you have done testing, maintenance, product delivery. All these steps are coming. By combining all these steps you are making an approach. That approach is also known as engineering approach. So that's why the next definition is engineering approach to develop a software is known as software engineering. So here engineering approach does not mean that the work that the engineer is doing is known as engineering approach. No, what does engineering approach mean? You are doing this work step by step, systematically. From the very first step to the last step, you are achieving your goal one by one. That is known as engineering approach. So see, if I explain this to you with a real life example, then it is a very basic example. Branded vs. Non-branded. See if we talk about branded, companies do their work in a very proper way. Like the place where I belong, there are a lot of modified jeeps. Now what do the modified jeep mechanics do? By removing the engine of old jeeps, putting wide tires in them, making a good body and what do they do? They bring it to the market. Now they brought it to the market, neither did any testing of it. Now let's suppose I am fine and on the other hand we have branded. Like Mahindra's Thar, Jeep company, Toyota SUVs, you will get a lot of such cars. And first of all, I am not talking about skill or degree here. That on one side is a mechanic and on the other is an engineer. I am just talking about the approach. What is the approach of these people? The approach of non-branded things is that it is a build and deliver method. Means they made the thing and delivered it. Now after that, whether it runs 2 km or 200 km, it can be. I am saying from my personal experience that okay, they drove that jeep locally a little. But they took it on a long drive, it is over. And on the other hand, if we talk about branded, then in branded they have followed all the steps properly. Even after product delivery, see if your car is 5 years old, still you have the opportunity that you go to the showroom and you are still providing its maintenance services. Okay, we will take its charges, but proper maintenance services are still being provided. So that is actually called the approach. From idea to maintenance, from maintenance to regular updates, we are actually calling all these steps as engineering approach. So that is only about the software engineering. So if anyone asks you about software engineering, that whether it has to be developed or coded, that is a phase, a phase that okay I have to do this work. But software engineering is all about the step 1 to last step, how are you following, how are you growing, that is all about the software engineering. So see, if we talk about its evolution here, then it is not that software engineering is a term of today or a term of 10 years ago, 20 years ago. The term software engineering comes under the time of 1945 to 1965, its origin is that, the origin will be when software development will start. So see, a lot of development started during the time of World War 2, even NASA, a lot of organizations, but the organizations at a large level, IBM company, they started working on it at their level. But no one was talking about engineering, work was going on simple software development, and all are following the build and deliver kind of method, which is also called build and fix method, that okay, made the thing and gave it in the market. Now after that, it may be that problems will come, and problems will come because you did not follow all the steps, you just gave the thing to run, now the thing to run will obviously create a problem, it may be that your work will be done in the starting, but it will not be effective for the long term. So that is the origin of the software engineering. And in the starting, the most important or you can say the most famous NATO conferences, where actually the name of software engineering was taken for the first time, after that if we talk about 65 to 85, this time was called the software crisis. Why is it called a crisis? I am telling you the same point, that branded or non-branded, you can say that I am following the whole approach, but at that time there was no approach, they are simply following the build and deliver kind of method, that okay, I got some work, I tried to wrap it up quickly, and delivered it in the market, gave it to my client. Now what was the problem? The problem was that at that time, the most time of crisis was that the software that was made at that time, only 2% of those software were actually used. Means if 100 software were made at that time, then only 2 of them were properly used, and approximately 47 to 50% were not delivered. Means it was not used, and you can say that rest of them are what? They are simply scrapped. Scrapped means obviously it is over, means either its budget, the cost will be overrun, means you had a budget of let's suppose 1 billion, and you have already spent 1 billion, but you have not made all the software yet. Or time constraint, the time within the time you had to make, you consumed all that time, it became overtime. So these were a lot of constraints, there was complexity, there were many factors, because of which only 2% of the software were actually used. And one of the best example of this is OS 360. This was IBM's product, Operating System 360 they tried to develop, and the person who was heading this whole team, in his own book he has written that it is a multi-millionaire failure project. Why? Because they did not prepare any design for it, did not prepare any coherent design, directly they started working on that, prepared the coding part, implemented it and brought it to the market. And that was totally a failure. So this failure is actually due to not using the approach properly. And see, I am talking about approach again and again, so it does not mean that if you follow the approach, then definitely there is a 100% guarantee that you will be successful. No, but the probability of success will be more, that is the main point. But if you are not following the approach, the probability of failure is actually more. So see, it is not that after that the crisis stopped or decreased, no. It continued to run a lot after that, like it is very popular in this, a Taurus project is also very popular, 10-12 years work was done on it, even how much UK pound was spent on it, but still what was made at the end, it was put in scrap. Many products of the US also, they tried to make an autonomous system, worked on it for 10-12 years, but its budget overrun, so what happened because of that, that too was put in scrap. So it is not that it happened only at this time, but at this time you can say that only 2 out of 100 were used, rest you can say that it failed. So obviously that is actually known as the software crisis phase. After that, the time of the internet came, after 1990, the time of the internet came. And at this time, all the softwares, like obviously one of the, if we talk till now, the most famous is your Windows, Microsoft Windows, that is our system software, which we also call operating system, this also came at that time. And during the internet, many web browsers, they became very famous, they developed a lot. Then came the time of mobile, they started on lightweight in mobile. Lightweight means that one is running on PC software, now we need lightweight, we need a lightweight platform on which we can make lightweight software, so that the software can be properly run on mobile. Then after that, the time, after 2010, you can say, the time is of AI, machine learning, deep learning, where we are using the concept of self-learning in software, where it is trying to learn itself like a human being. So see, this evolution is going on in this way. Now what is the best thing that has happened in this evolution? That is most of the software are now free. Means, earlier they were propriety, the company made it, they kept it with them, but now most of the software are free, on which people can work, they can work on that particular thing, they can learn how to work. So this is actually the evolution of software engineering. So on this, in your exams, college, university exams, even in placement, some points can be asked. Thank you. Copyright\u00a9 OSHO International Foundation www.OSHO.com copyright OSHO is a registered Trademark of OSHO International Foundation"
+}

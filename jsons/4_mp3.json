@@ -1,0 +1,2224 @@
+{
+  "chunks": [
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 0.0,
+      "end": 7.0,
+      "text": " intro music"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 7.0,
+      "end": 9.0,
+      "text": " Hello friends, welcome to Gate Smashers"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 9.0,
+      "end": 12.0,
+      "text": " From this video we are going to start software engineering"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 12.0,
+      "end": 17.0,
+      "text": " and in the first video I will start the syllabus discussion of software engineering"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 17.0,
+      "end": 21.0,
+      "text": " Now see from whose point of view I am doing this syllabus discussion"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 21.0,
+      "end": 24.0,
+      "text": " First of all, competitive exams, college, university exams"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 24.0,
+      "end": 25.0,
+      "text": " even for your placements"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 25.0,
+      "end": 28.0,
+      "text": " so that you know which topics are important"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 28.0,
+      "end": 31.0,
+      "text": " on which you have to focus a lot"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 31.0,
+      "end": 34.0,
+      "text": " and what can be asked in them, this will also be clear to you"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 34.0,
+      "end": 37.0,
+      "text": " and which topics you can neglect a little"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 37.0,
+      "end": 43.0,
+      "text": " because frankly speaking software engineering is mostly your theoretical portion"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 43.0,
+      "end": 47.0,
+      "text": " but to make it as interesting as possible"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 47.0,
+      "end": 52.0,
+      "text": " I will make you cover all the topics from real life examples"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 52.0,
+      "end": 55.0,
+      "text": " First of all, if we talk about the syllabus"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 55.0,
+      "end": 58.0,
+      "text": " then this syllabus which I have written here is from standard books"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 58.0,
+      "end": 62.0,
+      "text": " so it can change a little bit, very minutely"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 62.0,
+      "end": 66.0,
+      "text": " but most of the time questions come from these only"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 66.0,
+      "end": 68.0,
+      "text": " If we talk about the first competitive exam"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 68.0,
+      "end": 72.0,
+      "text": " then see in GATE, software engineering portion is not coming for many years"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 72.0,
+      "end": 79.0,
+      "text": " but in UGC net exam or PSU exams, software engineering is asked"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 79.0,
+      "end": 83.0,
+      "text": " and if we talk about NILT exam or DSSS"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 83.0,
+      "end": 86.0,
+      "text": " which are the teaching eligibility test of your TGT level"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 86.0,
+      "end": 89.0,
+      "text": " in those also, software engineering portion comes somewhere"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 89.0,
+      "end": 92.0,
+      "text": " and if we talk about your college, university level exams"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 92.0,
+      "end": 96.0,
+      "text": " obviously, you also study the software engineering portion there"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 96.0,
+      "end": 99.0,
+      "text": " and in placement also, it is not of very high level"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 99.0,
+      "end": 103.0,
+      "text": " because placement is mostly focused on practical portion"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 103.0,
+      "end": 107.0,
+      "text": " but obviously, if you go and your placement will be there"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 107.0,
+      "end": 109.0,
+      "text": " so obviously, the designation you will get"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 109.0,
+      "end": 113.0,
+      "text": " either you are a software developer, software designer, web designer"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 113.0,
+      "end": 118.0,
+      "text": " field of testing, so somewhere you should have basic knowledge of software engineering"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 118.0,
+      "end": 123.0,
+      "text": " so that you can work in further companies with that knowledge"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 123.0,
+      "end": 126.0,
+      "text": " so I will tell you that all the points I will explain here"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 126.0,
+      "end": 130.0,
+      "text": " with examples, with real life examples I will explain to you"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 130.0,
+      "end": 134.0,
+      "text": " so that you don't feel that somewhere this is all theoretical portion"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 134.0,
+      "end": 137.0,
+      "text": " because actually, all this is theoretical portion"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 137.0,
+      "end": 141.0,
+      "text": " most of the levels, ok somewhere in between you will get numerical portion"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 141.0,
+      "end": 144.0,
+      "text": " but numerical portion is not like other subjects"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 144.0,
+      "end": 147.0,
+      "text": " that like 60% theory or 40% numerical, no"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 147.0,
+      "end": 152.0,
+      "text": " approximately 80-85% portion is your theoretical portion"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 152.0,
+      "end": 156.0,
+      "text": " there is a little portion in which we will discuss numerical portion"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 156.0,
+      "end": 160.0,
+      "text": " so see, let's start, first important portion is introduction part"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 160.0,
+      "end": 163.0,
+      "text": " what is the definition of software engineering, what are standard definitions"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 163.0,
+      "end": 167.0,
+      "text": " why we use it, what are its advantages and disadvantages"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 167.0,
+      "end": 170.0,
+      "text": " what is basic application, what is the difference between software"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 170.0,
+      "end": 174.0,
+      "text": " what are your projects, we will start basic from next video"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 174.0,
+      "end": 176.0,
+      "text": " so introduction part comes here"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 176.0,
+      "end": 180.0,
+      "text": " so see, as you have heard, there is mechanical engineering"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 180.0,
+      "end": 183.0,
+      "text": " there is automobile engineering, in which what we actually do"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 183.0,
+      "end": 187.0,
+      "text": " engineering generally what happens, we study principles in engineering"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 187.0,
+      "end": 190.0,
+      "text": " means if I have to learn something in standard way"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 190.0,
+      "end": 194.0,
+      "text": " if I talk about mechanical engineering, so there we study machine related"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 194.0,
+      "end": 198.0,
+      "text": " we study machine designing, how already machines work"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 198.0,
+      "end": 202.0,
+      "text": " we learn from that, we have to modify something in them, have to make something new"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 202.0,
+      "end": 207.0,
+      "text": " so all its principles, all its rules, I have to study somewhere"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 207.0,
+      "end": 210.0,
+      "text": " then only I can develop something new"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 210.0,
+      "end": 213.0,
+      "text": " so if we talk about the same thing here, what is software engineering"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 213.0,
+      "end": 217.0,
+      "text": " in software engineering, we basically design software, make software"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 217.0,
+      "end": 220.0,
+      "text": " from making, implementing, from scratch"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 220.0,
+      "end": 225.0,
+      "text": " means first point is idea, means first idea came in my mind"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 225.0,
+      "end": 230.0,
+      "text": " now how I will implement that idea, how I will bring it in market"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 230.0,
+      "end": 234.0,
+      "text": " how I will provide growth to my company"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 234.0,
+      "end": 240.0,
+      "text": " so all these points, from scratch to become an entrepreneur"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 240.0,
+      "end": 242.0,
+      "text": " so all these points till becoming an entrepreneur"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 242.0,
+      "end": 246.0,
+      "text": " so obviously somewhere in between you will get the benefit of software engineering"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 246.0,
+      "end": 250.0,
+      "text": " you will get to know how you will follow each step"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 250.0,
+      "end": 255.0,
+      "text": " so next if we talk about, it is important here, software development life cycle"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 255.0,
+      "end": 260.0,
+      "text": " in which, I will mark it as star because the main points"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 260.0,
+      "end": 262.0,
+      "text": " means if we talk about college, university exam"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 262.0,
+      "end": 265.0,
+      "text": " so you assume that in your exam it is written"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 265.0,
+      "end": 269.0,
+      "text": " software development life cycle, what are these basically steps"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 269.0,
+      "end": 272.0,
+      "text": " we will do in detail later, so what are these steps"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 272.0,
+      "end": 278.0,
+      "text": " how you have to follow those steps so that you can make your project software properly"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 278.0,
+      "end": 281.0,
+      "text": " so in this there are many standard conventional models"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 281.0,
+      "end": 285.0,
+      "text": " and there are new models also, in conventional models like waterfall model"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 285.0,
+      "end": 289.0,
+      "text": " apart from waterfall model if we talk about incremental model"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 289.0,
+      "end": 292.0,
+      "text": " prototype, spiral model, new models are there"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 292.0,
+      "end": 295.0,
+      "text": " so these models you will have to learn somewhere"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 295.0,
+      "end": 298.0,
+      "text": " that how we do processing in them, how we work in them"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 298.0,
+      "end": 300.0,
+      "text": " although all these models are theoretical"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 300.0,
+      "end": 303.0,
+      "text": " but they are telling you the way out"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 303.0,
+      "end": 305.0,
+      "text": " that how you have to follow the steps"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 305.0,
+      "end": 308.0,
+      "text": " what is the standard way to make software"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 308.0,
+      "end": 311.0,
+      "text": " so this life cycle is an important portion"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 311.0,
+      "end": 315.0,
+      "text": " then requirement analysis, requirement analysis obviously"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 315.0,
+      "end": 320.0,
+      "text": " means if we talk here then what is your requirement"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 320.0,
+      "end": 323.0,
+      "text": " and how you have to fulfill the requirement"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 323.0,
+      "end": 326.0,
+      "text": " and in this one of the most important portion is"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 326.0,
+      "end": 330.0,
+      "text": " that is your SRS document, software requirement specification"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 330.0,
+      "end": 333.0,
+      "text": " this is asked from the student in placement also"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 333.0,
+      "end": 337.0,
+      "text": " that you can make SRS document of basic level, how you make it"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 337.0,
+      "end": 341.0,
+      "text": " so I will tell you the SRS related points here"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 341.0,
+      "end": 344.0,
+      "text": " normal requirement is, see if we talk here"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 344.0,
+      "end": 346.0,
+      "text": " if I start with a simple example"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 346.0,
+      "end": 350.0,
+      "text": " we will talk about software later, let's suppose if you want to make a house"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 350.0,
+      "end": 353.0,
+      "text": " so somewhere you get the idea that yes I want to make a house"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 353.0,
+      "end": 359.0,
+      "text": " now it's not like if I want to make a 3-4 inch or 3-4 meter wall"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 359.0,
+      "end": 363.0,
+      "text": " it doesn't mean that I will make a house or I can make a shopping mall"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 363.0,
+      "end": 365.0,
+      "text": " because for that you need a skill somewhere"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 365.0,
+      "end": 368.0,
+      "text": " and that skill either you build it inside you"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 368.0,
+      "end": 371.0,
+      "text": " you can make it happen but you will build all those skills"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 371.0,
+      "end": 373.0,
+      "text": " it will take more cost, it will take a lot of time"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 373.0,
+      "end": 377.0,
+      "text": " if you work alone then obviously you will work in a team"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 377.0,
+      "end": 381.0,
+      "text": " so if you work in a team then you will take less time somewhere"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 381.0,
+      "end": 386.0,
+      "text": " and you don't need to learn everything, you can divide that work"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 386.0,
+      "end": 388.0,
+      "text": " so if we talk about making a house here"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 388.0,
+      "end": 390.0,
+      "text": " so first of all I have to tell the steps"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 390.0,
+      "end": 393.0,
+      "text": " this SDLC actually tells the basic steps"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 393.0,
+      "end": 397.0,
+      "text": " that do this first step, do this second step, do this third, do this fourth"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 397.0,
+      "end": 399.0,
+      "text": " how your whole house will be made"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 399.0,
+      "end": 401.0,
+      "text": " so next if we talk about the requirement"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 401.0,
+      "end": 404.0,
+      "text": " so what is in the requirement, I need money, I need land"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 404.0,
+      "end": 407.0,
+      "text": " where I have to make a house, I need workers somewhere"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 407.0,
+      "end": 410.0,
+      "text": " so I have set my basic requirement"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 410.0,
+      "end": 413.0,
+      "text": " so that actually comes in the phase of requirement analysis"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 413.0,
+      "end": 415.0,
+      "text": " then software project management"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 415.0,
+      "end": 420.0,
+      "text": " software project management is again an important portion here"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 420.0,
+      "end": 426.0,
+      "text": " because in software project management we talk about estimation first"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 426.0,
+      "end": 430.0,
+      "text": " like if we talk that if you are making software"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 430.0,
+      "end": 433.0,
+      "text": " then in project management somewhere you will talk about line of code"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 433.0,
+      "end": 435.0,
+      "text": " we talk about function points here"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 435.0,
+      "end": 437.0,
+      "text": " here a little numerical portion comes"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 438.0,
+      "end": 443.0,
+      "text": " and in this estimation is cost estimation, time estimation"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 443.0,
+      "end": 446.0,
+      "text": " we have to analyze the risk that what risk can come"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 446.0,
+      "end": 448.0,
+      "text": " what can come first, what can come later"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 448.0,
+      "end": 450.0,
+      "text": " how much impact can they have"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 450.0,
+      "end": 453.0,
+      "text": " all this analysis comes in your software project management"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 453.0,
+      "end": 456.0,
+      "text": " so in this COCOMO model is very important"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 456.0,
+      "end": 461.0,
+      "text": " which is asked a lot in your competitive exams and even in your college and university exams"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 461.0,
+      "end": 465.0,
+      "text": " and if we talk about the example we were discussing to make a house"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 465.0,
+      "end": 467.0,
+      "text": " obviously there is also a risk there"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 467.0,
+      "end": 469.0,
+      "text": " that what risk can come, how much money do you need"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 469.0,
+      "end": 471.0,
+      "text": " you will make all these requirements"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 471.0,
+      "end": 473.0,
+      "text": " what can come all these risks"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 473.0,
+      "end": 476.0,
+      "text": " that wherever you are making a house, can that earthquake come there"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 476.0,
+      "end": 478.0,
+      "text": " or any flood can come there"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 478.0,
+      "end": 480.0,
+      "text": " or what can be more risk"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 480.0,
+      "end": 484.0,
+      "text": " all these risks, in which society you are making a house"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 484.0,
+      "end": 486.0,
+      "text": " all these points will come in your mind"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 486.0,
+      "end": 490.0,
+      "text": " it is very important for you to do analysis on all these points"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 490.0,
+      "end": 492.0,
+      "text": " it is not that after making a house you sit"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 492.0,
+      "end": 494.0,
+      "text": " that I am having this problem now"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 494.0,
+      "end": 496.0,
+      "text": " so obviously what can you do"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 496.0,
+      "end": 498.0,
+      "text": " either you will make it again"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 498.0,
+      "end": 500.0,
+      "text": " so all that money is wasted, time is wasted"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 500.0,
+      "end": 502.0,
+      "text": " so don't do this work"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 502.0,
+      "end": 504.0,
+      "text": " I have to do the analysis before"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 504.0,
+      "end": 506.0,
+      "text": " whether it is cost, time analysis"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 506.0,
+      "end": 510.0,
+      "text": " risk analysis, all this I have to do at the initial step"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 510.0,
+      "end": 513.0,
+      "text": " so these points help you"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 513.0,
+      "end": 516.0,
+      "text": " that how you can make a good project"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 516.0,
+      "end": 518.0,
+      "text": " you can make a good software"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 518.0,
+      "end": 520.0,
+      "text": " then comes software design"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 520.0,
+      "end": 522.0,
+      "text": " designing part"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 522.0,
+      "end": 524.0,
+      "text": " like before making a house"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 524.0,
+      "end": 526.0,
+      "text": " it is not that money came in mind"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 526.0,
+      "end": 528.0,
+      "text": " you went straight to the builder"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 528.0,
+      "end": 530.0,
+      "text": " that make a house"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 530.0,
+      "end": 532.0,
+      "text": " it is not like that, he can make something else"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 532.0,
+      "end": 534.0,
+      "text": " but there is some other expectation in your mind"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 534.0,
+      "end": 536.0,
+      "text": " so somewhere you have to"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 536.0,
+      "end": 538.0,
+      "text": " designing part, like we go to architecture"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 538.0,
+      "end": 540.0,
+      "text": " and make 3D design"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 540.0,
+      "end": 542.0,
+      "text": " that I want a kitchen here"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 542.0,
+      "end": 544.0,
+      "text": " this room here, like this"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 544.0,
+      "end": 546.0,
+      "text": " I have told everything"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 546.0,
+      "end": 548.0,
+      "text": " so this designing part is very important"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 548.0,
+      "end": 550.0,
+      "text": " in which you have to somewhere"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 550.0,
+      "end": 552.0,
+      "text": " this is also software design"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 552.0,
+      "end": 554.0,
+      "text": " which is a very good post in the company"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 554.0,
+      "end": 556.0,
+      "text": " so the designer's part is"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 556.0,
+      "end": 558.0,
+      "text": " making a layout, making a model"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 558.0,
+      "end": 561.0,
+      "text": " so that later we can implement it"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 561.0,
+      "end": 563.0,
+      "text": " so here comes the important portion"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 563.0,
+      "end": 566.0,
+      "text": " your competitive exams, even in college and university"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 566.0,
+      "end": 568.0,
+      "text": " there is a coupling part"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 568.0,
+      "end": 570.0,
+      "text": " apart from coupling, there is a cohesion part"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 570.0,
+      "end": 573.0,
+      "text": " apart from cohesion, if we talk about designing"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 573.0,
+      "end": 577.0,
+      "text": " in UML, you can get questions related to this"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 577.0,
+      "end": 579.0,
+      "text": " or there is DFD, class diagrams"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 579.0,
+      "end": 583.0,
+      "text": " you can be asked questions related to this"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 583.0,
+      "end": 586.0,
+      "text": " so DFDs etc. when you make your project reports"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 586.0,
+      "end": 588.0,
+      "text": " or research reports etc."
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 588.0,
+      "end": 591.0,
+      "text": " there also we use DFDs somewhere"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 591.0,
+      "end": 593.0,
+      "text": " we use class diagrams"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 593.0,
+      "end": 596.0,
+      "text": " so this portion came in your designing"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 596.0,
+      "end": 598.0,
+      "text": " now your designing is done"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 598.0,
+      "end": 601.0,
+      "text": " after that you have to finally do the implementation"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 601.0,
+      "end": 603.0,
+      "text": " coding part has come, so it is not like"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 603.0,
+      "end": 605.0,
+      "text": " you have to do coding in this, coding is"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 605.0,
+      "end": 607.0,
+      "text": " a separate platform for it, it just told the step"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 607.0,
+      "end": 609.0,
+      "text": " that you have to do the next step of coding"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 609.0,
+      "end": 611.0,
+      "text": " you have to do the implementation"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 611.0,
+      "end": 613.0,
+      "text": " now you have done the implementation"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 613.0,
+      "end": 615.0,
+      "text": " you have told the builder that"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 615.0,
+      "end": 617.0,
+      "text": " you want such a house, you have given him the design"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 617.0,
+      "end": 619.0,
+      "text": " he took money from you"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 619.0,
+      "end": 621.0,
+      "text": " all the workers talked"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 621.0,
+      "end": 623.0,
+      "text": " you have given the contract in a way"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 623.0,
+      "end": 625.0,
+      "text": " now he has started the implementation part"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 625.0,
+      "end": 628.0,
+      "text": " now after the implementation"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 628.0,
+      "end": 630.0,
+      "text": " one of the most important portion"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 630.0,
+      "end": 633.0,
+      "text": " of software engineering is your testing"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 633.0,
+      "end": 635.0,
+      "text": " testing means, now what will you do"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 635.0,
+      "end": 637.0,
+      "text": " when the house is made, first of all"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 637.0,
+      "end": 639.0,
+      "text": " you will test yourself, you will see"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 639.0,
+      "end": 641.0,
+      "text": " if all the things are proper or not"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 641.0,
+      "end": 643.0,
+      "text": " and you may call your relatives"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 643.0,
+      "end": 645.0,
+      "text": " call your family members"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 645.0,
+      "end": 647.0,
+      "text": " to see if all the things are right or not"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 647.0,
+      "end": 649.0,
+      "text": " if it is not looking right, then somewhere"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 649.0,
+      "end": 651.0,
+      "text": " you have not made it complete"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 651.0,
+      "end": 653.0,
+      "text": " you have made a basic"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 653.0,
+      "end": 655.0,
+      "text": " in that structure, you can do the changes"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 655.0,
+      "end": 657.0,
+      "text": " you want to do, so testing is"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 657.0,
+      "end": 659.0,
+      "text": " a very important portion"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 659.0,
+      "end": 661.0,
+      "text": " whether we talk about unit testing, system testing"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 661.0,
+      "end": 663.0,
+      "text": " white box, black box testing"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 663.0,
+      "end": 665.0,
+      "text": " or integration testing"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 665.0,
+      "end": 667.0,
+      "text": " a lot of testing comes under this"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 667.0,
+      "end": 669.0,
+      "text": " a lot of questions are asked on this"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 669.0,
+      "end": 671.0,
+      "text": " means as I said"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 671.0,
+      "end": 673.0,
+      "text": " questions are written on SDLC"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 673.0,
+      "end": 675.0,
+      "text": " in the exam, assume that"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 675.0,
+      "end": 677.0,
+      "text": " questions are written in the testing"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 677.0,
+      "end": 679.0,
+      "text": " then finally"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 679.0,
+      "end": 681.0,
+      "text": " testing is done, you have shifted"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 681.0,
+      "end": 683.0,
+      "text": " means you have made the software"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 683.0,
+      "end": 685.0,
+      "text": " third party, whatever client was yours"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 685.0,
+      "end": 687.0,
+      "text": " he gave it to you, after giving it"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 687.0,
+      "end": 689.0,
+      "text": " now that is the maintenance portion"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 689.0,
+      "end": 691.0,
+      "text": " means you have shifted to the house"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 691.0,
+      "end": 693.0,
+      "text": " so now what? everything is over?"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 693.0,
+      "end": 695.0,
+      "text": " no, means all the money"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 695.0,
+      "end": 697.0,
+      "text": " is stopped or all the work is stopped"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 697.0,
+      "end": 699.0,
+      "text": " no, now starts"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 699.0,
+      "end": 701.0,
+      "text": " maintenance portion, maintenance means"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 701.0,
+      "end": 703.0,
+      "text": " that you have to maintain it on a regular basis"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 703.0,
+      "end": 705.0,
+      "text": " ok, you have to"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 705.0,
+      "end": 707.0,
+      "text": " to clean, either you are cleaning yourself"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 707.0,
+      "end": 709.0,
+      "text": " or you have put a maid, whatever it is"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 709.0,
+      "end": 711.0,
+      "text": " you are cleaning properly"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 711.0,
+      "end": 713.0,
+      "text": " but despite that"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 713.0,
+      "end": 715.0,
+      "text": " time to time, it may be"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 715.0,
+      "end": 717.0,
+      "text": " the color of the house"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 717.0,
+      "end": 719.0,
+      "text": " which you had made colorless, in that"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 719.0,
+      "end": 721.0,
+      "text": " some or the other can be depreciated"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 721.0,
+      "end": 723.0,
+      "text": " from some point of view"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 723.0,
+      "end": 725.0,
+      "text": " some or the other problem will come"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 725.0,
+      "end": 727.0,
+      "text": " inside the house, so those problems"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 727.0,
+      "end": 729.0,
+      "text": " you have to fix, if we talk"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 729.0,
+      "end": 731.0,
+      "text": " about software, software has come, you have given"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 731.0,
+      "end": 733.0,
+      "text": " it doesn't mean that"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 733.0,
+      "end": 735.0,
+      "text": " now if I see a simple example"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 735.0,
+      "end": 737.0,
+      "text": " our web link runs"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 737.0,
+      "end": 739.0,
+      "text": " onlinetest.gatesmessage.com, many times what happens"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 739.0,
+      "end": 741.0,
+      "text": " that ok, there is some small problem"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 741.0,
+      "end": 743.0,
+      "text": " came, to remove that problem"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 743.0,
+      "end": 745.0,
+      "text": " obviously we"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 745.0,
+      "end": 747.0,
+      "text": " have to talk to the people who have designed"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 747.0,
+      "end": 749.0,
+      "text": " the problem, so that they"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 749.0,
+      "end": 751.0,
+      "text": " can fix this problem, so the same point"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 751.0,
+      "end": 753.0,
+      "text": " is here, it is not that you have given"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 753.0,
+      "end": 755.0,
+      "text": " provided the software, all the work"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 755.0,
+      "end": 757.0,
+      "text": " is over, no, now you have to"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 757.0,
+      "end": 759.0,
+      "text": " maintain it, either that person himself says"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 759.0,
+      "end": 761.0,
+      "text": " client himself says that I will maintain"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 761.0,
+      "end": 763.0,
+      "text": " myself, I have a team, a skilled person"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 763.0,
+      "end": 765.0,
+      "text": " if there is, then ok, otherwise"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 765.0,
+      "end": 767.0,
+      "text": " you somewhere in the SRS document"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 767.0,
+      "end": 769.0,
+      "text": " in the entire document, you will tell that"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 769.0,
+      "end": 771.0,
+      "text": " we will also maintain, some problem"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 771.0,
+      "end": 773.0,
+      "text": " comes 24x7 is available"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 773.0,
+      "end": 775.0,
+      "text": " our technical team is available, you"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 775.0,
+      "end": 777.0,
+      "text": " can call, the users"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 777.0,
+      "end": 779.0,
+      "text": " ahead of you also have a problem, we will"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 779.0,
+      "end": 781.0,
+      "text": " tackle that too, all this is the part of"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 781.0,
+      "end": 783.0,
+      "text": " maintenance, finally quality"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 783.0,
+      "end": 785.0,
+      "text": " quality management means"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 785.0,
+      "end": 787.0,
+      "text": " that whatever you are making"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 787.0,
+      "end": 789.0,
+      "text": " it should be approved somewhere,"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 789.0,
+      "end": 791.0,
+      "text": " like ISO certification should be"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 791.0,
+      "end": 793.0,
+      "text": " certified here, like"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 793.0,
+      "end": 795.0,
+      "text": " we buy gold or"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 795.0,
+      "end": 797.0,
+      "text": " diamond, many ads come that"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 797.0,
+      "end": 799.0,
+      "text": " it is certified, it is like this,"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 799.0,
+      "end": 801.0,
+      "text": " it is jewelry, so"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 801.0,
+      "end": 803.0,
+      "text": " these points are somewhere, these are"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 803.0,
+      "end": 805.0,
+      "text": " very basic level,"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 805.0,
+      "end": 807.0,
+      "text": " but it can be asked in the exam many times,"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 807.0,
+      "end": 809.0,
+      "text": " then reusability"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 809.0,
+      "end": 811.0,
+      "text": " means the house is made,"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 811.0,
+      "end": 813.0,
+      "text": " after being made, let's say you thought"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 813.0,
+      "end": 815.0,
+      "text": " that I will use this house for 20-30 years,"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 815.0,
+      "end": 817.0,
+      "text": " now after using"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 817.0,
+      "end": 819.0,
+      "text": " it may be that you have shifted somewhere else"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 819.0,
+      "end": 821.0,
+      "text": " or you have thought that it is not"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 821.0,
+      "end": 823.0,
+      "text": " usable now, so now what"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 823.0,
+      "end": 825.0,
+      "text": " can you do, reuse it, reuse"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 825.0,
+      "end": 827.0,
+      "text": " means let's suppose you"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 827.0,
+      "end": 829.0,
+      "text": " converted it in PG, converted it in PG"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 829.0,
+      "end": 831.0,
+      "text": " obviously income is also coming from there"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 831.0,
+      "end": 833.0,
+      "text": " and your depreciation"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 833.0,
+      "end": 835.0,
+      "text": " cost is also"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 835.0,
+      "end": 837.0,
+      "text": " you are gaining somewhere,"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 837.0,
+      "end": 839.0,
+      "text": " means reuse"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 839.0,
+      "end": 841.0,
+      "text": " the project, reuse your software"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 841.0,
+      "end": 843.0,
+      "text": " that is also an art, so"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 843.0,
+      "end": 845.0,
+      "text": " all these points I will"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 845.0,
+      "end": 847.0,
+      "text": " bring one by one in further videos"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 847.0,
+      "end": 849.0,
+      "text": " for you, but remember"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 849.0,
+      "end": 851.0,
+      "text": " all the points I have told you"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 851.0,
+      "end": 853.0,
+      "text": " that most of the topic is theoretical"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 853.0,
+      "end": 855.0,
+      "text": " but from real life example"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 855.0,
+      "end": 857.0,
+      "text": " from interesting example I will"
+    },
+    {
+      "number": "4",
+      "title": "videoplayback (4)",
+      "start": 857.0,
+      "end": 859.0,
+      "text": " complete all this for you, thank you"
+    }
+  ],
+  "text": " intro music Hello friends, welcome to Gate Smashers From this video we are going to start software engineering and in the first video I will start the syllabus discussion of software engineering Now see from whose point of view I am doing this syllabus discussion First of all, competitive exams, college, university exams even for your placements so that you know which topics are important on which you have to focus a lot and what can be asked in them, this will also be clear to you and which topics you can neglect a little because frankly speaking software engineering is mostly your theoretical portion but to make it as interesting as possible I will make you cover all the topics from real life examples First of all, if we talk about the syllabus then this syllabus which I have written here is from standard books so it can change a little bit, very minutely but most of the time questions come from these only If we talk about the first competitive exam then see in GATE, software engineering portion is not coming for many years but in UGC net exam or PSU exams, software engineering is asked and if we talk about NILT exam or DSSS which are the teaching eligibility test of your TGT level in those also, software engineering portion comes somewhere and if we talk about your college, university level exams obviously, you also study the software engineering portion there and in placement also, it is not of very high level because placement is mostly focused on practical portion but obviously, if you go and your placement will be there so obviously, the designation you will get either you are a software developer, software designer, web designer field of testing, so somewhere you should have basic knowledge of software engineering so that you can work in further companies with that knowledge so I will tell you that all the points I will explain here with examples, with real life examples I will explain to you so that you don't feel that somewhere this is all theoretical portion because actually, all this is theoretical portion most of the levels, ok somewhere in between you will get numerical portion but numerical portion is not like other subjects that like 60% theory or 40% numerical, no approximately 80-85% portion is your theoretical portion there is a little portion in which we will discuss numerical portion so see, let's start, first important portion is introduction part what is the definition of software engineering, what are standard definitions why we use it, what are its advantages and disadvantages what is basic application, what is the difference between software what are your projects, we will start basic from next video so introduction part comes here so see, as you have heard, there is mechanical engineering there is automobile engineering, in which what we actually do engineering generally what happens, we study principles in engineering means if I have to learn something in standard way if I talk about mechanical engineering, so there we study machine related we study machine designing, how already machines work we learn from that, we have to modify something in them, have to make something new so all its principles, all its rules, I have to study somewhere then only I can develop something new so if we talk about the same thing here, what is software engineering in software engineering, we basically design software, make software from making, implementing, from scratch means first point is idea, means first idea came in my mind now how I will implement that idea, how I will bring it in market how I will provide growth to my company so all these points, from scratch to become an entrepreneur so all these points till becoming an entrepreneur so obviously somewhere in between you will get the benefit of software engineering you will get to know how you will follow each step so next if we talk about, it is important here, software development life cycle in which, I will mark it as star because the main points means if we talk about college, university exam so you assume that in your exam it is written software development life cycle, what are these basically steps we will do in detail later, so what are these steps how you have to follow those steps so that you can make your project software properly so in this there are many standard conventional models and there are new models also, in conventional models like waterfall model apart from waterfall model if we talk about incremental model prototype, spiral model, new models are there so these models you will have to learn somewhere that how we do processing in them, how we work in them although all these models are theoretical but they are telling you the way out that how you have to follow the steps what is the standard way to make software so this life cycle is an important portion then requirement analysis, requirement analysis obviously means if we talk here then what is your requirement and how you have to fulfill the requirement and in this one of the most important portion is that is your SRS document, software requirement specification this is asked from the student in placement also that you can make SRS document of basic level, how you make it so I will tell you the SRS related points here normal requirement is, see if we talk here if I start with a simple example we will talk about software later, let's suppose if you want to make a house so somewhere you get the idea that yes I want to make a house now it's not like if I want to make a 3-4 inch or 3-4 meter wall it doesn't mean that I will make a house or I can make a shopping mall because for that you need a skill somewhere and that skill either you build it inside you you can make it happen but you will build all those skills it will take more cost, it will take a lot of time if you work alone then obviously you will work in a team so if you work in a team then you will take less time somewhere and you don't need to learn everything, you can divide that work so if we talk about making a house here so first of all I have to tell the steps this SDLC actually tells the basic steps that do this first step, do this second step, do this third, do this fourth how your whole house will be made so next if we talk about the requirement so what is in the requirement, I need money, I need land where I have to make a house, I need workers somewhere so I have set my basic requirement so that actually comes in the phase of requirement analysis then software project management software project management is again an important portion here because in software project management we talk about estimation first like if we talk that if you are making software then in project management somewhere you will talk about line of code we talk about function points here here a little numerical portion comes and in this estimation is cost estimation, time estimation we have to analyze the risk that what risk can come what can come first, what can come later how much impact can they have all this analysis comes in your software project management so in this COCOMO model is very important which is asked a lot in your competitive exams and even in your college and university exams and if we talk about the example we were discussing to make a house obviously there is also a risk there that what risk can come, how much money do you need you will make all these requirements what can come all these risks that wherever you are making a house, can that earthquake come there or any flood can come there or what can be more risk all these risks, in which society you are making a house all these points will come in your mind it is very important for you to do analysis on all these points it is not that after making a house you sit that I am having this problem now so obviously what can you do either you will make it again so all that money is wasted, time is wasted so don't do this work I have to do the analysis before whether it is cost, time analysis risk analysis, all this I have to do at the initial step so these points help you that how you can make a good project you can make a good software then comes software design designing part like before making a house it is not that money came in mind you went straight to the builder that make a house it is not like that, he can make something else but there is some other expectation in your mind so somewhere you have to designing part, like we go to architecture and make 3D design that I want a kitchen here this room here, like this I have told everything so this designing part is very important in which you have to somewhere this is also software design which is a very good post in the company so the designer's part is making a layout, making a model so that later we can implement it so here comes the important portion your competitive exams, even in college and university there is a coupling part apart from coupling, there is a cohesion part apart from cohesion, if we talk about designing in UML, you can get questions related to this or there is DFD, class diagrams you can be asked questions related to this so DFDs etc. when you make your project reports or research reports etc. there also we use DFDs somewhere we use class diagrams so this portion came in your designing now your designing is done after that you have to finally do the implementation coding part has come, so it is not like you have to do coding in this, coding is a separate platform for it, it just told the step that you have to do the next step of coding you have to do the implementation now you have done the implementation you have told the builder that you want such a house, you have given him the design he took money from you all the workers talked you have given the contract in a way now he has started the implementation part now after the implementation one of the most important portion of software engineering is your testing testing means, now what will you do when the house is made, first of all you will test yourself, you will see if all the things are proper or not and you may call your relatives call your family members to see if all the things are right or not if it is not looking right, then somewhere you have not made it complete you have made a basic in that structure, you can do the changes you want to do, so testing is a very important portion whether we talk about unit testing, system testing white box, black box testing or integration testing a lot of testing comes under this a lot of questions are asked on this means as I said questions are written on SDLC in the exam, assume that questions are written in the testing then finally testing is done, you have shifted means you have made the software third party, whatever client was yours he gave it to you, after giving it now that is the maintenance portion means you have shifted to the house so now what? everything is over? no, means all the money is stopped or all the work is stopped no, now starts maintenance portion, maintenance means that you have to maintain it on a regular basis ok, you have to to clean, either you are cleaning yourself or you have put a maid, whatever it is you are cleaning properly but despite that time to time, it may be the color of the house which you had made colorless, in that some or the other can be depreciated from some point of view some or the other problem will come inside the house, so those problems you have to fix, if we talk about software, software has come, you have given it doesn't mean that now if I see a simple example our web link runs onlinetest.gatesmessage.com, many times what happens that ok, there is some small problem came, to remove that problem obviously we have to talk to the people who have designed the problem, so that they can fix this problem, so the same point is here, it is not that you have given provided the software, all the work is over, no, now you have to maintain it, either that person himself says client himself says that I will maintain myself, I have a team, a skilled person if there is, then ok, otherwise you somewhere in the SRS document in the entire document, you will tell that we will also maintain, some problem comes 24x7 is available our technical team is available, you can call, the users ahead of you also have a problem, we will tackle that too, all this is the part of maintenance, finally quality quality management means that whatever you are making it should be approved somewhere, like ISO certification should be certified here, like we buy gold or diamond, many ads come that it is certified, it is like this, it is jewelry, so these points are somewhere, these are very basic level, but it can be asked in the exam many times, then reusability means the house is made, after being made, let's say you thought that I will use this house for 20-30 years, now after using it may be that you have shifted somewhere else or you have thought that it is not usable now, so now what can you do, reuse it, reuse means let's suppose you converted it in PG, converted it in PG obviously income is also coming from there and your depreciation cost is also you are gaining somewhere, means reuse the project, reuse your software that is also an art, so all these points I will bring one by one in further videos for you, but remember all the points I have told you that most of the topic is theoretical but from real life example from interesting example I will complete all this for you, thank you"
+}
